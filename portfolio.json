@@ -1,0 +1,146 @@
+{
+  "site": {
+    "name": "Pradyuman",
+    "fullName": "Pradyuman Iyer",
+    "logoUrl": "/logo.png",
+    "bannerUrl": "/logo_black_fullName.png",
+    "tagline": "Rigging & 3D Generalist",
+    "university": "UT Dallas",
+    "year": "Senior",
+    "email": "pradyuman.iyer@icloud.com",
+    "social": {
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "vimeo": "https://vimeo.com",
+      "artstation": "https://artstation.com"
+    },
+    "about": "I'm a senior at the University of Texas at Dallas, specializing in character rigging and digital animation. I build rigs that give animators freedom \u2014 systems that are technically robust yet intuitive to use.\n\nMy work sits at the intersection of engineering and artistry. Whether it's a creature that needs to move believably across terrain or a face that has to carry an entire performance, I approach every project with precision and care.\n\nCurrently seeking opportunities in film, games, and visual effects.",
+    "skills": [
+      "Rigging",
+      "Character Animation",
+      "Technical Direction",
+      "Python"
+    ]
+  },
+  "projects": [
+    {
+      "id": "takeaway-commercial",
+      "title": "Restaurant Takeaway Commercial",
+      "year": "2026",
+      "category": "rigging",
+      "overview": "A social media advertisement created to promote a client's takeaway and delivery services. As the Video Editor and Creative Lead, I edited across multiple post-production tools while shaping the overall creative direction of the commercial. The project was completed in one week, delivering a energetic, engaging commercial optimized for social media platforms.",
+      "tools": [
+        "DaVinci Resolve",
+        "Adobe Premiere Pro"
+      ],
+      "youtubeUrl": "https://youtu.be/KbBYoG5pJSo",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.4,
+      "span": "wide"
+    },
+    {
+      "id": "facial-performance",
+      "title": "Facial Performance",
+      "year": "2024",
+      "category": "rigging",
+      "overview": "FACS-based facial rig with blendshape layering and corrective sculpts for cinematic close-up shots.",
+      "tools": [
+        "Maya",
+        "ZBrush"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.5,
+      "span": "tall"
+    },
+    {
+      "id": "mechanical-rig",
+      "title": "Mechanical Rig",
+      "year": "2024",
+      "category": "rigging",
+      "overview": "Precision mechanical asset with constraint-driven articulation and automated secondary motion.",
+      "tools": [
+        "Maya",
+        "Python"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+      "loopStartMinute": 1,
+      "loopEndMinute": 1.5,
+      "span": "normal"
+    },
+    {
+      "id": "creature-deformation",
+      "title": "Creature Deformation Study",
+      "year": "2025",
+      "category": "rigging",
+      "overview": "Exploration of quadruped locomotion with custom muscle systems and volume-preserving deformation across extreme poses.",
+      "tools": [
+        "Maya",
+        "Houdini"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.33,
+      "span": "normal"
+    },
+    {
+      "id": "motion-capture-cleanup",
+      "title": "Motion Capture Cleanup",
+      "year": "2024",
+      "category": "animation",
+      "overview": "Retargeted and refined mocap data with hand-keyed polish for a short-form character piece.",
+      "tools": [
+        "Maya",
+        "MotionBuilder"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=LXb3EKWsInQ",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.5,
+      "span": "wide"
+    },
+    {
+      "id": "character-walk-cycle",
+      "title": "Character Walk Cycle",
+      "year": "2024",
+      "category": "animation",
+      "overview": "Stylized walk cycle with full body mechanics, weight shifts, and follow-through on secondary elements.",
+      "tools": [
+        "Maya"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "loopStartMinute": 0.5,
+      "loopEndMinute": 1,
+      "span": "normal"
+    },
+    {
+      "id": "acting-shot",
+      "title": "Acting Shot",
+      "year": "2025",
+      "category": "animation",
+      "overview": "A pantomime performance piece focused on silhouette, timing, and emotional readability.",
+      "tools": [
+        "Maya"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.4,
+      "span": "tall"
+    },
+    {
+      "id": "senior-thesis",
+      "title": "Senior Thesis",
+      "year": "2026",
+      "category": "animation",
+      "overview": "Capstone project combining original character design, full production rig, and a narrative animation sequence.",
+      "tools": [
+        "Maya",
+        "Substance",
+        "Nuke"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+      "loopStartMinute": 0,
+      "loopEndMinute": 1,
+      "span": "wide"
+    }
+  ]
+}
