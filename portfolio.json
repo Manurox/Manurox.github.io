@@ -68,18 +68,17 @@
       "span": "normal"
     },
     {
-      "id": "creature-deformation",
-      "title": "Creature Deformation Study",
-      "year": "2025",
-      "category": "rigging",
+      "id": "still-box-render",
+      "title": "Industrial Box Render",
+      "year": "2024",
+      "category": "animation",
       "overview": "Exploration of quadruped locomotion with custom muscle systems and volume-preserving deformation across extreme poses.",
       "tools": [
         "Maya",
-        "Houdini"
+        "Adobe Substance Painter",
+        "Arnold"
       ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
-      "loopStartMinute": 0,
-      "loopEndMinute": 0.33,
+      "imageUrl": "/assets/explode04.jpg", "/assets/explode01.jpg", "/assets/explode009.jpg"
       "span": "normal"
     },
     {
