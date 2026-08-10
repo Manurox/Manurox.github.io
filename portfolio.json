@@ -82,16 +82,16 @@
       "span": "normal"
     },
     {
-      "id": "motion-capture-cleanup",
-      "title": "Motion Capture Cleanup",
-      "year": "2024",
+      "id": "university-commercial",
+      "title": "University Motion Graphics Commercial",
+      "year": "2025",
       "category": "animation",
       "overview": "Retargeted and refined mocap data with hand-keyed polish for a short-form character piece.",
       "tools": [
         "Maya",
-        "MotionBuilder"
+        "Adobe After Effects"
       ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=LXb3EKWsInQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R38uL3JUmd8",
       "loopStartMinute": 0,
       "loopEndMinute": 0.5,
       "span": "wide"
