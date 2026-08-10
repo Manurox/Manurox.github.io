@@ -33,37 +33,37 @@
         "DaVinci Resolve",
         "Adobe Premiere Pro"
       ],
-      "youtubeUrl": "https://youtu.be/KbBYoG5pJSo",
+      "youtubeUrl": "https://youtu.be/Rbbsgxam_a0",
       "loopStartMinute": 0,
       "loopEndMinute": 0.4,
       "span": "wide"
     },
     {
-      "id": "facial-performance",
-      "title": "Facial Performance",
-      "year": "2024",
+      "id": "chaos-car-breakdown",
+      "title": "Cartoon Car Rig",
+      "year": "2026",
       "category": "rigging",
       "overview": "FACS-based facial rig with blendshape layering and corrective sculpts for cinematic close-up shots.",
       "tools": [
         "Maya",
         "ZBrush"
       ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "youtubeUrl": "https://youtu.be/mUeGLZVAq_w",
       "loopStartMinute": 0,
       "loopEndMinute": 0.5,
       "span": "tall"
     },
     {
-      "id": "mechanical-rig",
-      "title": "Mechanical Rig",
-      "year": "2024",
-      "category": "rigging",
+      "id": "chaos-driving-animation",
+      "title": "Chaotic Driving Short",
+      "year": "2026",
+      "category": "animation",
       "overview": "Precision mechanical asset with constraint-driven articulation and automated secondary motion.",
       "tools": [
         "Maya",
         "Python"
       ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+      "youtubeUrl": "https://youtu.be/wvqeHTr0cSA",
       "loopStartMinute": 1,
       "loopEndMinute": 1.5,
       "span": "normal"
