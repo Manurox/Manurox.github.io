@@ -28,7 +28,7 @@
       "title": "Restaurant Takeaway Commercial",
       "year": "2026",
       "category": "rigging",
-      "overview": "A social media advertisement created to promote a client's takeaway and delivery services. As the Video Editor and Creative Lead, I edited across multiple post-production tools while shaping the overall creative direction of the commercial. The project was completed in one week, delivering a energetic, engaging commercial optimized for social media platforms.",
+      "overview": "A commercial advertisement created to promote a client's takeaway and delivery services. As the Video Editor and Creative Lead, I edited across multiple post-production tools while shaping the overall creative direction of the commercial. The project was completed in one week, delivering a energetic, engaging commercial optimized for social media platforms.",
       "tools": [
         "DaVinci Resolve",
         "Adobe Premiere Pro"
@@ -43,10 +43,9 @@
       "title": "Cartoon Car Rig",
       "year": "2026",
       "category": "rigging",
-      "overview": "FACS-based facial rig with blendshape layering and corrective sculpts for cinematic close-up shots.",
+      "overview": "A breakdown of a car rig in a cartoon manner for a short animation. This video features ribbon rigs, squash and stretch, and custom controls. The whole rig was completed within the span of a week.",
       "tools": [
         "Maya",
-        "ZBrush"
       ],
       "youtubeUrl": "https://youtu.be/mUeGLZVAq_w",
       "loopStartMinute": 0,
@@ -58,10 +57,10 @@
       "title": "Chaotic Driving Short",
       "year": "2026",
       "category": "animation",
-      "overview": "Precision mechanical asset with constraint-driven articulation and automated secondary motion.",
+      "overview": "This short features a cartoon car achieving great feats to overcome the traffic. Autodesk Maya's MASH toolset was utlisized to simulate the traffic crowd, the color randomization and the motion paths for the respective instances of the main car model. This short was completed from start to finish in the span of two weeks as part of the 2026 Animation Jam hosted by The University of Texas at Dallas' Animation Guild.",
       "tools": [
         "Maya",
-        "Python"
+        "Arnold"
       ],
       "youtubeUrl": "https://youtu.be/wvqeHTr0cSA",
       "loopStartMinute": 1,
