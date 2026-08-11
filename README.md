@@ -12,6 +12,8 @@ Live site: **[manurox.github.io](https://manurox.github.io/)**
 4. **Commit changes**
 5. Wait **1–2 minutes**, then refresh the live site
 
+**JSON tip:** Do not leave a comma after the last item in a list (e.g. after the last tool in `"tools": ["Maya",]`). That breaks the whole file and the site will keep showing the old projects until it’s fixed.
+
 | `category` | Shows on |
 |---|---|
 | `"rigging"` | **Home** + **Rigging** |
