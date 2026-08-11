@@ -10,11 +10,11 @@
     "email": "pradyuman.iyer@icloud.com",
     "social": {
       "instagram": "https://www.instagram.com/pieceof_pi",
-      "linkedin": "www.linkedin.com/in/pradyuman-iyer",
+      "linkedin": "https://www.linkedin.com/in/pradyuman-iyer",
       "vimeo": "https://vimeo.com",
       "artstation": "https://artstation.com"
     },
-    "about": "I'm a senior at the University of Texas at Dallas, specializing in character rigging and digital animation. I build rigs that give animators freedom \u2014 systems that are technically robust yet intuitive to use.\n\nMy work sits at the intersection of engineering and artistry. Whether it's a creature that needs to move believably across terrain or a face that has to carry an entire performance, I approach every project with precision and care.\n\nCurrently seeking opportunities in film, games, and visual effects.",
+    "about": "I'm a senior at the University of Texas at Dallas, specializing in character rigging and digital animation. I build rigs that give animators freedom — systems that are technically robust yet intuitive to use.\n\nMy work sits at the intersection of engineering and artistry. Whether it's a creature that needs to move believably across terrain or a face that has to carry an entire performance, I approach every project with precision and care.\n\nCurrently seeking opportunities in film, games, and visual effects.",
     "skills": [
       "Rigging",
       "Character Animation",
@@ -45,7 +45,7 @@
       "category": "rigging",
       "overview": "A breakdown of a car rig in a cartoon manner for a short animation. This video features ribbon rigs, squash and stretch, and custom controls. The whole rig was completed within the span of a week.",
       "tools": [
-        "Maya",
+        "Maya"
       ],
       "youtubeUrl": "https://youtu.be/mUeGLZVAq_w",
       "loopStartMinute": 0,
