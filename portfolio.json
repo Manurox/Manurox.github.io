@@ -60,6 +60,7 @@
       "overview": "This short features a cartoon car achieving great feats to overcome the traffic. Autodesk Maya's MASH toolset was utlisized to simulate the traffic crowd, the color randomization and the motion paths for the respective instances of the main car model. This short was completed from start to finish in the span of two weeks as part of the 2026 Animation Jam hosted by The University of Texas at Dallas' Animation Guild.",
       "tools": [
         "Maya",
+        "MASH",
         "Arnold"
       ],
       "youtubeUrl": "https://youtu.be/wvqeHTr0cSA",
@@ -72,7 +73,7 @@
       "title": "Industrial Box Render",
       "year": "2024",
       "category": "animation",
-      "overview": "Exploration of quadruped locomotion with custom muscle systems and volume-preserving deformation across extreme poses.",
+      "overview": "A hyper-realistic 3D product render created for Altor Solutions for use on their website. As the 3D Generalist, I handled the modeling, texturing, and lighting to create a detailed and realistic representation of the industrial package design. The project was completed over a month.",
       "tools": [
         "Maya",
         "Adobe Substance Painter",
@@ -86,7 +87,7 @@
       "title": "University Motion Graphics Commercial",
       "year": "2025",
       "category": "animation",
-      "overview": "Retargeted and refined mocap data with hand-keyed polish for a short-form character piece.",
+      "overview": "A short motion graphics commercial created for the Bass School of Arts, Humanities and Technology at UTD, targeting incoming students. As the Modeler and Animator, I contributed 3D modeling, texturing, and animation while assisting with project planning and coordination. The project was completed over three months for publication on the Bass School’s official social media platforms.",
       "tools": [
         "Maya",
         "Adobe After Effects"
