@@ -97,21 +97,6 @@
       "span": "wide"
     },
     {
-      "id": "university-commercial",
-      "title": "University Motion Graphics Commercial",
-      "year": "2025",
-      "category": "animation",
-      "overview": "A short motion graphics commercial created for the Bass School of Arts, Humanities and Technology at UTD, targeting incoming students. As the Modeler and Animator, I contributed 3D modeling, texturing, and animation while assisting with project planning and coordination. The project was completed over three months for publication on the Bass School’s official social media platforms.",
-      "tools": [
-        "Maya",
-        "Adobe After Effects"
-      ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=R38uL3JUmd8",
-      "loopStartMinute": 0,
-      "loopEndMinute": 0.5,
-      "span": "wide"
-    },
-    {
       "id": "3d-text-motion-graphics",
       "title": "3D Text Motion Graphics ",
       "year": "2025",
@@ -127,32 +112,19 @@
       "span": "normal"
     },
     {
-      "id": "character-walk-cycle",
-      "title": "Character Walk Cycle",
-      "year": "2024",
-      "category": "animation",
-      "overview": "Stylized walk cycle with full body mechanics, weight shifts, and follow-through on secondary elements.",
-      "tools": [
-        "Maya"
-      ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-      "loopStartMinute": 0.5,
-      "loopEndMinute": 1,
-      "span": "normal"
-    },
-    {
-      "id": "acting-shot",
-      "title": "Acting Shot",
+      "id": "university-commercial",
+      "title": "University Motion Graphics Commercial",
       "year": "2025",
       "category": "animation",
-      "overview": "A pantomime performance piece focused on silhouette, timing, and emotional readability.",
+      "overview": "A short motion graphics commercial created for the Bass School of Arts, Humanities and Technology at UTD, targeting incoming students. As the Modeler and Animator, I contributed 3D modeling, texturing, and animation while assisting with project planning and coordination. The project was completed over three months for publication on the Bass School’s official social media platforms.",
       "tools": [
-        "Maya"
+        "Maya",
+        "Adobe After Effects"
       ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R38uL3JUmd8",
       "loopStartMinute": 0,
-      "loopEndMinute": 0.4,
-      "span": "tall"
+      "loopEndMinute": 0.5,
+      "span": "wide"
     }
   ]
 }
