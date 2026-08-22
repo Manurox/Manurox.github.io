@@ -24,6 +24,20 @@
   },
   "projects": [
     {
+      "id": "Trex-rig-calisthenic",
+      "title": "T-Rex Creature Rig ",
+      "year": "2026",
+      "category": "rigging",
+      "overview": "A full-body T-Rex creature rig developed as a final project, combining IK/FK systems, spline and ribbon rigs, corrective shapes, and blendshapes for flexible and natural deformation. I also developed custom volume, squash-and-stretch, and global scale controls to create a cohesive, animator-friendly rig that could be integrated into environments at any scale.",
+      "tools": [
+        "Maya",
+      ],
+      "youtubeUrl": "https://youtu.be/nDx6gfnrh_g",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.4,
+      "span": "wide"
+    },
+    {
       "id": "takeaway-commercial",
       "title": "Restaurant Takeaway Commercial",
       "year": "2026",
@@ -124,22 +138,6 @@
       "loopStartMinute": 0,
       "loopEndMinute": 0.4,
       "span": "tall"
-    },
-    {
-      "id": "senior-thesis",
-      "title": "Senior Thesis",
-      "year": "2026",
-      "category": "animation",
-      "overview": "Capstone project combining original character design, full production rig, and a narrative animation sequence.",
-      "tools": [
-        "Maya",
-        "Substance",
-        "Nuke"
-      ],
-      "youtubeUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
-      "loopStartMinute": 0,
-      "loopEndMinute": 1,
-      "span": "wide"
     }
   ]
 }
