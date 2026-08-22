@@ -112,6 +112,21 @@
       "span": "wide"
     },
     {
+      "id": "3d-text-motion-graphics",
+      "title": "3D Text Motion Graphics ",
+      "year": "2025",
+      "category": "animation",
+      "overview": "A 3D text motion graphic created as part of a larger promotional project for the Bass School of Arts, Humanities, and Technology. I modeled, textured, and animated the 3D typography, including developing a custom frosted glass material from scratch. I also animated the camera and text to create polished transitions for the scenes in the larger University Commercial.",
+      "tools": [
+        "Maya",
+        "Arnold"
+      ],
+      "youtubeUrl": "https://youtu.be/pujZQ7utf68",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.5,
+      "span": "normal"
+    },
+    {
       "id": "character-walk-cycle",
       "title": "Character Walk Cycle",
       "year": "2024",
