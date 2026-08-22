@@ -38,21 +38,6 @@
       "span": "wide"
     },
     {
-      "id": "takeaway-commercial",
-      "title": "Restaurant Takeaway Commercial",
-      "year": "2026",
-      "category": "rigging",
-      "overview": "A commercial advertisement created to promote a client's takeaway and delivery services. As the Video Editor and Creative Lead, I edited across multiple post-production tools while shaping the overall creative direction of the commercial. The project was completed in one week, delivering a energetic, engaging commercial optimized for social media platforms.",
-      "tools": [
-        "DaVinci Resolve",
-        "Adobe Premiere Pro"
-      ],
-      "youtubeUrl": "https://youtu.be/Rbbsgxam_a0",
-      "loopStartMinute": 0,
-      "loopEndMinute": 0.4,
-      "span": "wide"
-    },
-    {
       "id": "chaos-car-breakdown",
       "title": "Cartoon Car Rig",
       "year": "2026",
@@ -95,6 +80,21 @@
       ],
       "imageUrl": "/assets/explode04.jpg",
       "span": "normal"
+    },
+    {
+      "id": "takeaway-commercial",
+      "title": "Restaurant Takeaway Commercial",
+      "year": "2026",
+      "category": "rigging",
+      "overview": "A commercial advertisement created to promote a client's takeaway and delivery services. As the Video Editor and Creative Lead, I edited across multiple post-production tools while shaping the overall creative direction of the commercial. The project was completed in one week, delivering a energetic, engaging commercial optimized for social media platforms.",
+      "tools": [
+        "DaVinci Resolve",
+        "Adobe Premiere Pro"
+      ],
+      "youtubeUrl": "https://youtu.be/Rbbsgxam_a0",
+      "loopStartMinute": 0,
+      "loopEndMinute": 0.4,
+      "span": "wide"
     },
     {
       "id": "university-commercial",
