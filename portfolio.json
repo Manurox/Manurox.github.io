@@ -68,17 +68,19 @@
       "span": "normal"
     },
     {
-      "id": "still-box-render",
-      "title": "Industrial Box Render",
-      "year": "2024",
+      "id": "abstract-fx",
+      "title": "Abstract FX",
+      "year": "2026",
       "category": "animation",
-      "overview": "A hyper-realistic 3D product render created for Altor Solutions for use on their website. As the 3D Generalist, I handled the modeling, texturing, and lighting to create a detailed and realistic representation of the industrial package design. The project was completed over a month.",
+      "overview": "An abstract FX simulation created from scratch in Houdini, featuring a grid of cuboids moving like ocean waves. I developed a procedural setup using noise, scatter, and copy-to-points nodes to create the wave motion and distribute the geometry. A key feature is the height-driven color system, where each cuboid changes between shiny purple as they rise and teal as they descend within the wave. I also created a custom metallic glass material and animated lighting to emphasize the reflective surfaces. The final scene was rendered through Karma.",
       "tools": [
-        "Maya",
-        "Adobe Substance Painter",
-        "Arnold"
+        "Houdini",
+        "Solaris",
+        "Karma"
       ],
-      "imageUrl": "/assets/explode04.jpg",
+      "youtubeUrl": "https://youtu.be/xrRSwRot5-A",
+      "loopStartMinute": 0,
+      "loopEndMinute": 1,
       "span": "normal"
     },
     {
@@ -109,6 +111,20 @@
       "youtubeUrl": "https://youtu.be/pujZQ7utf68",
       "loopStartMinute": 0,
       "loopEndMinute": 0.5,
+      "span": "normal"
+    },
+    {
+      "id": "still-box-render",
+      "title": "Industrial Box Render",
+      "year": "2024",
+      "category": "animation",
+      "overview": "A hyper-realistic 3D product render created for Altor Solutions for use on their website. As the 3D Generalist, I handled the modeling, texturing, and lighting to create a detailed and realistic representation of the industrial package design. The project was completed over a month.",
+      "tools": [
+        "Maya",
+        "Adobe Substance Painter",
+        "Arnold"
+      ],
+      "imageUrl": "/assets/explode04.jpg",
       "span": "normal"
     },
     {
