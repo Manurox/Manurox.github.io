@@ -25,6 +25,20 @@
   },
   "projects": [
     {
+      "id": "lightning-fx-sim",
+      "title": "Lightning VFX",
+      "year": "2026",
+      "category": "animation",
+      "overview": "A lightning FX simulation created in Houdini, inspired by the lightning effects in The Amazing Spider-Man 2. I recreated the environment and lighting while developing procedural lightning using masks, curves, and noise attributes for natural movement. I also created custom brightness, emission, and flicker attributes, with the flicker driven by the thickness of the lightning. Randomized contact points were scattered across the character to control where the lightning strikes.",
+      "tools": [
+        "Houdini"
+      ],
+      "youtubeUrl": "https://youtu.be/FR5mRdFKQ-0",
+      "loopStartMinute": 0,
+      "loopEndMinute": 1,
+      "span": "tall"
+    },
+    {
       "id": "Trex-rig-calisthenic",
       "title": "T-Rex Creature Rig ",
       "year": "2026",
