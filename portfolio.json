@@ -50,7 +50,7 @@
       "youtubeUrl": "https://youtu.be/nDx6gfnrh_g",
       "loopStartMinute": 0,
       "loopEndMinute": 0.4,
-      "span": "wide"
+      "span": "normal"
     },
     {
       "id": "chaos-car-breakdown",
@@ -64,7 +64,7 @@
       "youtubeUrl": "https://youtu.be/mUeGLZVAq_w",
       "loopStartMinute": 0,
       "loopEndMinute": 0.5,
-      "span": "tall"
+      "span": "normal"
     },
     {
       "id": "chaos-driving-animation",
@@ -80,7 +80,7 @@
       "youtubeUrl": "https://youtu.be/wvqeHTr0cSA",
       "loopStartMinute": 1,
       "loopEndMinute": 1.5,
-      "span": "normal"
+      "span": "wide"
     },
     {
       "id": "abstract-fx",
