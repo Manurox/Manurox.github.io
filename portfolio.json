@@ -31,11 +31,12 @@
       "category": "animation",
       "overview": "A lightning FX simulation created in Houdini, inspired by the lightning effects in The Amazing Spider-Man 2. I recreated the environment and lighting while developing procedural lightning using masks, curves, and noise attributes for natural movement. I also created custom brightness, emission, and flicker attributes, with the flicker driven by the thickness of the lightning. Randomized contact points were scattered across the character to control where the lightning strikes.",
       "tools": [
-        "Houdini"
+        "Houdini",
+        "Nuke"
       ],
-      "youtubeUrl": "https://youtu.be/klEJnseaStk",
+      "youtubeUrl": "https://youtu.be/1hyeiTngnwo",
       "loopStartMinute": 0,
-      "loopEndMinute": 1,
+      "loopEndMinute": 0.5,
       "span": "tall"
     },
     {
